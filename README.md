@@ -85,5 +85,5 @@ Outputs include learning curves, a confusion matrix, and a full classification r
 
 ## Author
 
-Built as part of the GoMyCode Deep Learning curriculum.
+Sobowale Ahmed.
 
